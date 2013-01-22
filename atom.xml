@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Coding Cats]]></title>
+  <link href="http://jamesgary.github.com/atom.xml" rel="self"/>
+  <link href="http://jamesgary.github.com/"/>
+  <updated>2013-01-21T18:53:11-08:00</updated>
+  <id>http://jamesgary.github.com/</id>
+  <author>
+    <name><![CDATA[James Gary]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, world!]]></title>
+    <link href="http://jamesgary.github.com/blog/2013/01/20/hello_world/"/>
+    <updated>2013-01-20T16:17:00-08:00</updated>
+    <id>http://jamesgary.github.com/blog/2013/01/20/hello_world</id>
+    <content type="html"><![CDATA[<p>I don&#8217;t have much to say now. My <a href="http://jamesgary.github.com/projects">projects</a> page will be of most interest for the time being.</p>
+]]></content>
+  </entry>
+  
+</feed>
