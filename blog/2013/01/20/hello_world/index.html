@@ -151,7 +151,7 @@
     
       <div class="sharing">
   
-  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://jamesgary.github.com/blog/2013/01/20/hello_world/" data-via="" data-counturl="http://jamesgary.github.com/blog/2013/01/20/hello_world/" >Tweet</a>
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://jamesgary.github.com/blog/2013/01/20/hello_world/" data-via="james_gary" data-counturl="http://jamesgary.github.com/blog/2013/01/20/hello_world/" >Tweet</a>
   
   
   
@@ -171,7 +171,35 @@
 
 <aside class="sidebar">
   
-    <section>
+    
+<section>
+  <h1>Latest Tweets</h1>
+  <ul id="tweets">
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $.domReady(function(){
+      getTwitterFeed("james_gary", 4, false);
+    });
+  </script>
+  <script src="/javascripts/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/james_gary" class="twitter-follow-button" data-show-count="false">Follow @james_gary</a>
+  
+</section>
+
+
+<section>
+  <h1>GitHub</h1>
+  <p>
+    <iframe src="http://ghbtns.com/github-btn.html?user=jamesgary&type=follow" allowtransparency="true" frameborder="0" scrolling="0" width="132" height="20"></iframe>
+  </p>
+</section>
+
+
+
+
+<section>
   <h1>Recent Posts</h1>
   <ul id="recent_posts">
     
@@ -185,11 +213,6 @@
     
   </ul>
 </section>
-
-
-
-
-
 
   
 </aside>
