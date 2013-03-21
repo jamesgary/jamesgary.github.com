@@ -4,7 +4,7 @@
   <title><![CDATA[Coding Cats]]></title>
   <link href="http://jamesgary.github.com/atom.xml" rel="self"/>
   <link href="http://jamesgary.github.com/"/>
-  <updated>2013-01-22T10:25:13-08:00</updated>
+  <updated>2013-03-21T00:49:38-07:00</updated>
   <id>http://jamesgary.github.com/</id>
   <author>
     <name><![CDATA[James Gary]]></name>
@@ -12,6 +12,49 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts on Conduct]]></title>
+    <link href="http://jamesgary.github.com/blog/2013/03/20/thoughts-on-conduct/"/>
+    <updated>2013-03-20T22:41:00-07:00</updated>
+    <id>http://jamesgary.github.com/blog/2013/03/20/thoughts-on-conduct</id>
+    <content type="html"><![CDATA[<p>I need to speak out on the PyCon incident. For those catching up:</p>
+
+<ul>
+<li><a href="http://pycon.blogspot.com/2013/03/pycon-response-to-inappropriate.html">PyCon&#8217;s response to an inappropriate incident on March 17th</a> - PyCon&#8217;s quick recap</li>
+<li><a href="http://butyoureagirl.com/14015/forking-and-dongle-jokes-dont-belong-at-tech-conferences/">Forking and Dongle Jokes Don&#8217;t Belong at Tech Conferences</a> - Adria&#8217;s post</li>
+<li><a href="https://news.ycombinator.com/item?id=5410515">The PyCon Incident</a> - One of many Hacker News&#8217; stories</li>
+</ul>
+
+
+<p>Here&#8217;s my greatly summarized internal dialogue:</p>
+
+<p><em>&#8220;C&#8217;mon, it was just some dumb potty humor. Lighten up.&#8221;</em></p>
+
+<p><strong>Context matters.</strong> Checking Twitter on your phone can be irritating at the movie theater, but much more inappropriate at your grandmother&#8217;s wake. I love playing <a href="http://cardsagainsthumanity.com">Cards Against Humanity</a> with close friends, but I&#8217;d be an asshole if I whipped it out as an ice breaker at the office. The tech community is in a <strong>serious crisis of gender imbalance</strong>, and propagating sexually charged language, no matter how insignificant, is hurting the community.</p>
+
+<p><em>&#8220;But it wasn&#8217;t even sexist! You&#8217;re being way too sensitive&#8221;</em></p>
+
+<p>It gets old. The <del>tech community</del> <del>internet</del> entire <strong>world</strong> is habitually disparaging and hostile towards women. If this isn&#8217;t obvious, you&#8217;re not paying attention (and if you need examples, but will only accept gifs, <a href="http://femalesoftwareeng.tumblr.com/">femalesoftwareeng.tumblr.com</a> has you covered).</p>
+
+<p>My point is this: tech conferences are a golden opportunity to change the image of software engineers. We can waste it, and perpetuate the stereotype of an immature socially-oblivious boys&#8217; club, or we can put some effort in our conduct and try to be as inclusive and respectful as possible.</p>
+
+<p><em>&#8220;One of the guys got fired as a result of her complaint. She got one of the guys fired!&#8221;</em></p>
+
+<p>Easy there, Captain Extrapolation. The guy&#8217;s company fired him. Adria performed the proper protocol:</p>
+
+<blockquote><p>Per the stated guidelines for attendees and staff the issue was reported to the PyCon 2013 staff and resolved privately.  Both parties were met with, in private. The comments that were made were in poor taste, and individuals involved agreed, apologized and no further actions were taken by the staff of PyCon 2013. No individuals were removed from the conference, no sanctions were levied.</p><footer><strong>The PyCon Blog</strong> <cite><a href='http://pycon.blogspot.com/2013/03/pycon-response-to-inappropriate.html'>pycon.blogspot.com/2013/03/&hellip;</a></cite></footer></blockquote>
+
+
+<p>Really, this was a relatively run-of-the-mill incident. We could discuss the firing, but there&#8217;s too many unknowns about that. The real issue here is the aftermath.</p>
+
+<p>I&#8217;ve spent a total of maybe one or two hours reading comments about this story, and already I&#8217;m saddened, angry, and exhausted. I&#8217;ve seen this pattern before: the victimized woman has been called every nasty name possible, even sent personalized death threats. Men are never slandered as harshly as women are. The male perpetrator has been treated like a martyr, and <strong>she&#8217;s</strong> been blamed for <strong>his</strong> trauma. Okay, someone lost their job from making inappropriate comments. Understandably, many voiced their opinion that that was extreme. But where&#8217;s the outrage for the death threats Adria later received? If you&#8217;re going to cast judgment, have some perspective.</p>
+
+<p>In conclusion, I don&#8217;t really know what the intention of this post is. Worse injustices happen everyday. I&#8217;m just getting frustrated with it. As an observer, safe and far away, I just feel the need to do something.</p>
+
+<p>Adria, I&#8217;m on your side.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello, world!]]></title>
