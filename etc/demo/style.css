@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+a {
+  cursor: pointer;
+}
+
+.override_time, .natural_time {
+  display: inline;
+  text-align: right;
+  width: 50%;
+}
+.override_time .ui-input-text {
+  width: 120px !important;
+}
